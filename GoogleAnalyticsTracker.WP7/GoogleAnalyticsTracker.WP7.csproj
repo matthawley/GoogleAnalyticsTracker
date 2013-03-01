@@ -106,7 +106,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="GoogleAnalyticsTracker.WP7.nuspec">
       <SubType>Designer</SubType>
     </None>
